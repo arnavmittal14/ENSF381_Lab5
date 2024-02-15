@@ -1,6 +1,6 @@
 # ENSF381_Lab5
------
-Name
------
-Arnav Mittal 
-Debojeet Dam
+
+| Name         |   | UCID |
+| -------------|   |------|
+| Arnav Mittal |   |30175759|
+| Debojeet Dam |  | 30171419|
